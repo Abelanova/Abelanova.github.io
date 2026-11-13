@@ -16,9 +16,12 @@ main:
 
   - title: "Publications"
     url: /publications/
+
+  - title: "Design Work"
+    url: /design/
     
   - title: "CV"
     url: /cv/
 
-  - title: "Design Portfolio ↗"
+  - title: "Full Portfolio ↗"
     url: https://www.yingfangzhong.com/

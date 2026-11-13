@@ -44,3 +44,12 @@ author_profile: true
     <div class="tag-list"><span>Accessibility</span><span>Voice UI</span><span>Browser Agents</span><span>Prototyping</span></div>
   </article>
 </div>
+
+<section class="research-design-link">
+  <div>
+    <div class="project-kicker">DESIGN-LED RESEARCH</div>
+    <h2>From field research to working interactive systems</h2>
+    <p>See four detailed projects covering accessibility, embodied health, sustainability, and interactive installations, with original process and prototype imagery.</p>
+  </div>
+  <a class="btn btn--primary" href="{{ base_path }}/design/">Explore design work</a>
+</section>
