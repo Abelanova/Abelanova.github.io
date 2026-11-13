@@ -1,0 +1,39 @@
+- title: "Interactive Exploration of Camera Distortions using 3D Gaussian Splats in VR"
+  short_title: "Camera Distortions in 3DGS VR"
+  badge: "DEMO 1049"
+  authors: "Yingfangzhong Sun, Christian Sandor, and Daniel Filonik"
+  venue: "IEEE ISMAR-Adjunct 2026"
+  year: 2026
+  summary: "A stereo VR demonstration for interactively comparing conventional, wide-FOV, and fisheye exploration of 3D Gaussian Splatting scenes."
+  primary_url: "https://www.ieeeismar.net/2026/demos/"
+  links:
+    - label: "Official listing"
+      url: "https://www.ieeeismar.net/2026/demos/"
+    - label: "Code"
+      url: "https://github.com/Abelanova/3dgs-vr-fisheye-prototype"
+
+- title: "‘Everyone Says Them’: Deception Typologies, Probabilistic Trust, and Grassroots Safety Knowledge Among Gay Dating App Users in China"
+  authors: "Yibo Meng*, Lyumanshan Ye*, Yingfangzhong Sun*, Bingyi Liu, Huidi Lu, and Xiaolan Ding"
+  venue: "ACM CSCW 2026 Companion"
+  year: 2026
+  image: "/images/publications/everyone-says-them-first-page.jpg"
+  summary: "An interview study with 22 gay dating-app users examining deception typologies, layered verification practices, and community-based risk recognition."
+  primary_url: "https://arxiv.org/abs/2606.27284"
+  links:
+    - label: "arXiv"
+      url: "https://arxiv.org/abs/2606.27284"
+    - label: "DOI"
+      url: "https://doi.org/10.1145/3785651.3831521"
+
+- title: "Engagement Is Not Transfer: A Withdrawal Study of a Consumer Social Robot with Autistic Children at Home"
+  authors: "Yibo Meng*, Guangrui Fan*, Bingyi Liu, Yingfangzhong Sun, Ruiqi Chen, and Haipeng Mi"
+  venue: "ACM Interaction Design and Children (IDC) 2026"
+  year: 2026
+  image: "/images/publications/engagement-is-not-transfer-first-page.jpg"
+  summary: "An eight-week home study with 40 children examining when social-robot engagement supports anxiety reduction and when withdrawal can promote transfer to human interaction."
+  primary_url: "https://arxiv.org/abs/2604.02642"
+  links:
+    - label: "arXiv"
+      url: "https://arxiv.org/abs/2604.02642"
+    - label: "DOI"
+      url: "https://doi.org/10.1145/3773077.3806118"
