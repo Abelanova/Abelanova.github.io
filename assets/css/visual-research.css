@@ -1,0 +1,27 @@
+/* Research / publications / portfolio visual layouts — keeps the Academic Pages theme */
+.section-intro { font-size:1.07rem; line-height:1.75; color:var(--global-text-color, #424242); }
+.portfolio-jump{display:flex;flex-wrap:wrap;gap:.35rem 1rem;margin:1.5rem 0 2rem;font-size:.85rem}
+.portfolio-jump a{font-weight:600}
+.visual-section{margin:2.75rem 0 4rem;scroll-margin-top:5rem}
+.visual-section > h2{font-size:1.35rem;margin-bottom:.4rem;border-bottom:1px solid #e7e9ee;padding-bottom:.5rem}
+.visual-section > p{max-width:820px;line-height:1.75;color:#4b5563}
+.portfolio-gallery{max-width:1000px;display:grid;gap:1.25rem;margin:1.3rem auto}
+.portfolio-page{margin:0;max-width:100%;background:#fff;border:1px solid #e5e7eb;border-radius:.45rem;overflow:hidden;box-shadow:0 5px 16px rgba(20,27,37,.05)}
+.portfolio-page img{width:100%;height:auto;display:block}
+.portfolio-page figcaption{font-size:.72rem;color:#6b7280;padding:.45rem .8rem;background:#f9fafb;display:flex;gap:.75rem;justify-content:space-between}
+.portfolio-cover{margin:1.4rem auto 3rem;max-width:1000px}
+.portfolio-endnote{font-size:.85rem;color:#6b7280;margin:3rem 0}
+.paper-card,.research-card{display:grid;grid-template-columns:minmax(190px,32%) minmax(0,1fr);gap:1.2rem;padding:1.3rem 0;border-bottom:1px solid #e5e7eb;align-items:start}
+.paper-card img,.research-card img{width:100%;height:auto;display:block;border-radius:.4rem;border:1px solid #e5e7eb;background:#f7f7f7}
+.paper-card h2,.research-card h2{font-size:1.16rem;line-height:1.4;margin:0 0 .35rem}
+.paper-card p,.research-card p{line-height:1.65;margin:.45rem 0;font-size:.86rem}
+.paper-meta,.research-meta{font-size:.79rem;color:#64748b}
+.paper-actions,.research-actions{display:flex;gap:.45rem;flex-wrap:wrap;margin-top:.7rem}
+.paper-actions a,.research-actions a{border:1px solid #b7c4d9;border-radius:.35rem;padding:.27rem .65rem;font-size:.77rem;font-weight:600;text-decoration:none}
+.paper-actions a:hover,.research-actions a:hover{background:#edf2f7}
+.research-media-stack{display:grid;gap:.55rem}
+.research-media-stack img{max-width:100%}
+.research-media-stack figure{margin:0}
+.research-media-stack figcaption{font-size:.7rem;color:#667085;padding-top:.25rem}
+.research-tags{font-size:.73rem;color:#475569}
+@media(max-width:720px){.paper-card,.research-card{grid-template-columns:1fr;gap:.7rem}.paper-card img,.research-card img{max-height:290px;object-fit:contain}.portfolio-gallery{gap:.8rem}}
