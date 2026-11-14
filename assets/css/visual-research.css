@@ -25,3 +25,15 @@
 .research-media-stack figcaption{font-size:.7rem;color:#667085;padding-top:.25rem}
 .research-tags{font-size:.73rem;color:#475569}
 @media(max-width:720px){.paper-card,.research-card{grid-template-columns:1fr;gap:.7rem}.paper-card img,.research-card img{max-height:290px;object-fit:contain}.portfolio-gallery{gap:.8rem}}
+
+/* True project teaser panels sourced from the applicant's presentation.
+   Positions align to five equal-height panels in research-teasers.webp. */
+.teaser-sprite {display:block;width:100%;aspect-ratio:400 / 205;border:1px solid #e5e7eb;border-radius:.4rem;background-color:#f5f6f8;background-image:url('/images/research/research-teasers.webp');background-repeat:no-repeat;background-size:100% 500%}
+.sprite-ismar {background-position:0 0}
+.sprite-embodied {background-position:0 25%}
+.sprite-tactile {background-position:0 50%}
+.sprite-agent {background-position:0 75%}
+.sprite-tacticast {background-position:0 100%}
+.paper-image-link {display:block;max-width:100%}
+.research-card figure {margin:0}
+.research-card .research-media-stack {max-width:100%;width:100%}
